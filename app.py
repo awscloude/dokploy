@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 # Sample sentences for log generation
 SAMPLE_SENTENCES = [
-    "The quick brown foyyyyyyyyyyyyyyyyyyyyyy jumps over the lazy dog.",
+    "The quick brown fozzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz jumps over the lazy dog.",
     "A journey of a thousand miles begins with a single step.",
     "To be or not to be, that is the question.",
     "All that glitters is not gold.",
